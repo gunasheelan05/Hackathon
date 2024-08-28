@@ -1,0 +1,64 @@
+.text-casual {
+    font-family: "Bebas Neue", sans-serif;
+    color: #363958;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.container-showcase {
+    margin-top: 100px;
+    padding: 0 0 0 100px;
+}
+
+.container-img {
+    height: 330px;
+    width: 330px !important;
+    background-color: #F1F1F1;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 0;
+}
+
+.inner-container-child {
+    align-self: center;
+    position: relative;
+    justify-self: center;
+    height: 350px;
+}
+
+.grid-container-showcase {
+    display: grid;
+    grid-template-rows: 1;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.img-shoe {
+    width: 300px !important;
+    height: 300px !important;
+    margin-top: 10px;
+    position: relative;
+    z-index: 10 !important;
+}
+
+.nike-shoe-name {
+    font-family: "Roboto", sans-serif;
+    color: #363958;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.left-side {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.nike-title-header {
+    margin-top: 27px;
+    padding: 0 70px;
+}

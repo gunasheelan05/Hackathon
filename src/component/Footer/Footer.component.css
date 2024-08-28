@@ -1,0 +1,12 @@
+.container-footer {
+    display: grid;
+    grid-template-rows: 1;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 160px !important;
+    margin-bottom: 40px;
+}
+
+.right-side-main {
+    align-self: center;
+    justify-self: center;
+}

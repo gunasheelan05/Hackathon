@@ -1,0 +1,28 @@
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+
+.company-logo {
+    width: 291.11px;
+    height: 39.27px;
+    margin-top: 30px;
+}
+
+.dotted-design {
+   position: absolute;
+   margin: -1px 0 0 40px;
+}
+
+.ul-header {
+    display: flex !important;
+    gap: 60px;
+    margin-top: 30px;
+}
+
+.ul-header > li {
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+    font-weight: 500;
+}
